@@ -1,0 +1,78 @@
+body{
+   background: url(https://static.vecteezy.com/system/resources/thumbnails/021/767/629/small/black-paper-texture-background-illustration-eps10-vector.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.container{
+  max-width: 1500px;
+
+  display: grid;
+  row-gap: 12px;
+  column-gap: 18px;
+  padding: 22px;
+  object-fit: cover;
+  grid-template-columns: repeat(4, 1fr); 
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+} 
+.item img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border: 2px solid;
+  border-color: rgb(58, 59, 59);
+  border-radius: 20px;
+  border-left: 2px;
+}
+.item{
+  grid-column: span 2;
+
+ 
+}
+.item-1 img {
+
+  height: 100%;
+  width:80%;
+  object-fit: cover;
+  border: 2px solid;
+  border-color: rgb(58, 59, 59);
+  border-radius: 20px;
+  border-left: 2px;
+}
+.item-1{
+  grid-row: span 2;
+   grid-column: span 2; 
+}
+.item-2 img {
+  height: 100%;
+  width:92%;
+  object-fit: cover;
+  border: 2px solid;
+  border-color: rgb(58, 59, 59);
+  border-radius: 20px;
+  border-left: 2px;
+}
+.item-2{
+   grid-column: span 4; 
+   
+}
+.item-3 img {
+  height: 100%;
+  width:85%;
+  object-fit: cover;
+  border: 2px solid;
+  border-color: rgb(58, 59, 59);
+  border-radius: 20px;
+  border-left: 2px;
+}
+.item-3{
+   grid-column: span 2; 
+  
+}
