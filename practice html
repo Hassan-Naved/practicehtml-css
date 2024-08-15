@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+        <h1>CSS gallery</h1>
+    
+
+
+
+
+
+    <div class="container">
+        <div class="item ">
+    <img src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+        </div>
+     <div class="item-1 ">
+        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51527398-e1ec-4ef8-9b76-086fe6eca43b/dgcl9x0-8de99fed-9eb1-46b6-859e-c86c107cadbf.jpg/v1/fill/w_1920,h_3426,q_75,strp/the_dark_night_dragon_beast_ar_9_16__300dpi__by_lawbreakxz_dgcl9x0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxNTI3Mzk4LWUxZWMtNGVmOC05Yjc2LTA4NmZlNmVjYTQzYlwvZGdjbDl4MC04ZGU5OWZlZC05ZWIxLTQ2YjYtODU5ZS1jODZjMTA3Y2FkYmYuanBnIiwiaGVpZ2h0IjoiPD0zNDI2Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvNTE1MjczOTgtZTFlYy00ZWY4LTliNzYtMDg2ZmU2ZWNhNDNiXC9sYXdicmVha3h6LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.oBR_GD4Tx1Odj6ukkBFJZfMiyLF7dDyGVoo9LTzRgH0" alt="">
+             </div>
+            
+         <div class="item">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-thsyY7pcpafX5U5CN_fkREa_Bmrvak0sRg&s" alt="">
+          </div>
+
+          <div class="item-2">
+            <img src="https://img.pikbest.com/wp/202345/take-photos-woman-taking-a-photo-with-her-camera_9578452.jpg!sw800" alt="">
+            </div>
+            <div class="item ">
+                <img src="https://media.macphun.com/img/uploads/customer/how-to/608/15542038745ca344e267fb80.28757312.jpg?q=85&w=1340" alt="">
+                </div>
+                <div class="item-3 ">
+                    <img src="https://i.pinimg.com/564x/0f/1d/18/0f1d183c0afc3e01505fa68347194a10.jpg" alt="">
+                    </div>
+                    <div class="item-2">
+                        <img src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg" alt="">
+                        </div>
+
+
+
+
+
+
+                        
+    </div>
+
+</body>
+</html>
